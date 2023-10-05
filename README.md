@@ -1,7 +1,7 @@
 # CS Study
+![](https://github.com/dev-team-study/cs-study/assets/49775540/2ce09b37-0dd6-4366-98fc-531372e1cab7)
 > 기술 면접 대비를 위한 CS 스터디를 진행합니다.
-
-
+<br>
 
 ## 👾 스터디 멤버
 
