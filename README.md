@@ -5,9 +5,9 @@
 
 ## 👾 스터디 멤버
 
-|                     [김영주](https://github.com/kylekim2123)                      |                     [황창현](https://github.com/Hchanghyeon)                     |                      [이현호](https://github.com/charlesuu)                      |                       [소재훈](https://github.com/jay-so)                        |                       [고범준](https://github.com/K-jun98)                        |                       [김범석](https://github.com/BeomSeogKim)                        |
-|:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-|  <img src="https://avatars.githubusercontent.com/u/49775540?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/92444744?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/76809524?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/52352476?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/101342145?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/110332047?v=4" width="150">  |
+|                     [황창현](https://github.com/Hchanghyeon)                     |                      [이현호](https://github.com/charlesuu)                      |                       [소재훈](https://github.com/jay-so)                        |                     [김범석](https://github.com/BeomSeogKim)                        |
+|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/92444744?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/76809524?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/52352476?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/110332047?v=4" width="150">  |
 
 <br>
 
@@ -32,7 +32,7 @@ Cs-study
     |   └── 01_관계형_데이터베이스
     |       ├── README.md => 당일에 나온 모든 질문 아카이빙
     |       ├── 범석.md
-    |       ├── 영주.md
+    |       ├── 창현.md
     |       └── ...
     ├── network
     |   └── ...
@@ -49,8 +49,8 @@ Cs-study
    {과목} {내용} 문서 작성(수정) [이름]
    ```
 
-   - 작성 예시) `DB 01_관계형_데이터베이스 문서 작성 [김영주]`
-   - 수정 예시) `DB 01_관계형_데이터베이스 문서 수정 [김영주]`
+   - 작성 예시) `DB 01_관계형_데이터베이스 문서 작성 [황창현]`
+   - 수정 예시) `DB 01_관계형_데이터베이스 문서 수정 [황창현]`
 
 2. **PR**
 
@@ -58,7 +58,7 @@ Cs-study
    {과목} {내용} 제출 [이름]
    ```
 
-   - PR 예시) `DB 01_관계형_데이터베이스 제출 [김영주]`
+   - PR 예시) `DB 01_관계형_데이터베이스 제출 [황창현]`
 
 <br>
 
