@@ -93,3 +93,45 @@ Cs-study
   - NoSQL의 개념
   - RDB VS NoSQL
   - Redis 동작원리
+
+### 2️⃣ 네트워크 (Network)
+
+- 네트워크 레이어
+    - OSI 7계층
+    - TCP/IP 4계층
+    - IP
+        - IPv4 vs IPv6
+        - subnet
+        - CIDR
+- 통신
+    - TCP
+        - 흐름제어, 혼잡제어, 오류제어
+        - 3-way-handshake, 4-way-handshake
+    - UDP
+    - HTTP
+        - HTTP status code
+        - HTTP method
+        - HTTP 1.1, 2.0, 3.0
+    - HTTPS, SSL/TSL
+    - DNS
+    - 기타 : socket, STOMP, SMTP (프로젝트에서 사용한 경우)
+- Web
+    - Web Server vs WAS
+    - Web Server
+        - apache vs nginx (동작원리)
+        - SSL offloading
+        - reverse proxy
+        - load balancing
+            - L7 vs L4
+            - 알고리즘
+    - Web cache
+    - URI, URN, URL
+    - Rest API
+- 보안
+    - CORS
+    - XSS
+    - SQL Injection
+- 인증
+    - cookie
+    - session
+    - JWT
