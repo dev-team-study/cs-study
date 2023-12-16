@@ -6,8 +6,8 @@
 ## 👾 스터디 멤버
 
 |                     [황창현](https://github.com/Hchanghyeon)                     |                      [이현호](https://github.com/charlesuu)                      |                       [김범석](https://github.com/BeomSeogKim)                        |                       [조재현](https://github.com/HandmadeCloud)                        |
-|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
-| <img src="https://avatars.githubusercontent.com/u/92444744?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/76809524?v=4" width="150">|  <img src="https://avatars.githubusercontent.com/u/110332047?v=4" width="150">  |
+|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/92444744?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/76809524?v=4" width="150">|  <img src="https://avatars.githubusercontent.com/u/110332047?v=4" width="150">  | <img src="https://avatars.githubusercontent.com/u/77893164?v=4" width="150">  |
 
 <br>
 
