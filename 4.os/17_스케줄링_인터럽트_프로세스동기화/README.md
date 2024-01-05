@@ -1,0 +1,23 @@
+- CPU 스케줄링
+  - 장기 스케줄링
+  - 중기 스케줄링
+  - 단기 스케줄링
+- 스케줄링 알고리즘
+  - FCFS
+  - SJF
+  - Round Robin
+  - SRT
+  - Priority scheduling
+  - Multilevel Queue
+  - Multilevel Feedback Queue
+- 인터럽트
+  - 인터럽트 개념
+  - 동기적 인터럽트, 비동기적 인터럽트
+  - 인터럽트 처리 과정
+  - 인터럽트와 이중 모드
+- 프로세스 동기화
+  - 공유자원, 경쟁상태, 임계구역
+  - 피터슨 알고리즘
+  - 뮤텍스
+  - 세마포어
+  - 모니터
