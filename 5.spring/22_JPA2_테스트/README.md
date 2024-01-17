@@ -1,0 +1,11 @@
+- JPA
+   - 고아객체
+   - 단뱡향/양방향 매핑
+   - N + 1 문제
+- 테스트 
+   - DDD, TDD
+   - Junit4 vs Junit5
+   - 단위, 통합, 인수 테스트
+   - stub, mock
+   - SpringBoot 계층별 테스트 방법
+   - 테스트 커버리지 (JACOCO)
