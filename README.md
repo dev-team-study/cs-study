@@ -73,6 +73,7 @@ Cs-study
   - Key
 - MySQL 아키텍처
   - innodb
+  - 언두로그
   - 쿼리동작 방식
 - Join
 - 이상 현상과 정규화
@@ -86,7 +87,10 @@ Cs-study
   - 인덱스 개념
   - 인덱스 종류
   - Clustered index, Non-Clustered index
+  - B-Tree 인덱스
   - 인덱스 자료구조
+- 옵티마이저
+- 실행계획
 - Master/Slave
 - Sharding
 - NoSQL
@@ -147,7 +151,11 @@ Cs-study
    - 컴파일 언어 vs 인터프리터 언어
    - JVM 메모리 구조
    - Garbage Collector 동작과정
+       - STW(Stop-The-World)
+       - Parallel GC, G1 GC, ZGC
    - Java8의 큰 특징 + Java11과의 차이점
+   - Java21
+      - Virtual Thread
 - Java 기초
    - 접근제어자
    - 클래스, 객체, 인스턴스 차이
@@ -165,6 +173,8 @@ Cs-study
  - Java 컬렉션
    - hashcode() & equals()
    - Thread Safe & Syncronized
+     - Volatile
+     - AtomicInteger
    - String
       - String vs StringBuffer vs StringBuilder 
       - Immutable Object
@@ -255,10 +265,13 @@ Cs-study
    - DI
    - Bean, Component
       - `@Component` `@Service` `@Controller`
+      - 생성주기
+      - 프로토타입 빈
    - Container
    - VO vs DTO vs DAO
 - Spring 심화
    - AOP
+      - Spring AOP 어노테이션
       - JDK Dynamic Proxy
       - CGLIB
    - interceptor 
@@ -267,6 +280,7 @@ Cs-study
 - JPA
    - JDBC, Spring JDBC
    - Sql Mapper(MyBatis), ORM
+   - @Transactional    
    - JPA, Hibernate
    - 영속성 컨텍스트
    - 즉시/지연 로딩
