@@ -1,0 +1,8 @@
+- JPA
+   - JDBC, Spring JDBC
+   - Sql Mapper(MyBatis), ORM
+   - @Transactional
+   - JPA, Hibernate
+   - 영속성 컨텍스트
+   - 즉시/지연 로딩
+   - 프록시
