@@ -308,3 +308,5 @@ Cs-study
    - stub, mock
    - SpringBoot 계층별 테스트 방법
    - 테스트 커버리지 (JACOCO)
+- 기타
+   - 2.x.x와 3.x.x 버전 차이
