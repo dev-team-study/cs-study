@@ -1,0 +1,13 @@
+   - Garbage Collector 동작과정
+       - STW(Stop-The-World)
+       - Parallel GC, G1 GC, ZGC
+   - Java8의 큰 특징 + Java11과의 차이점
+   - Java21
+      - Virtual Thread
+   - 접근제어자
+   - 클래스, 객체, 인스턴스 차이
+   - Overloading vs Overriding
+   - Primitive type vs Reference type
+      - Call by Reference vs Call by Value
+      - Wrapper Class
+   - interface vs abstract class 
