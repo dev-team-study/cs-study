@@ -1,0 +1,22 @@
+- 스레드
+  - 스레드 개념
+  - 멀티스레드의 구조
+  - 멀티스레드의 장단점
+  - 멀티 프로세스 VS 멀티 스레드
+- CPU 스케줄링
+  - 장기 스케줄링
+  - 중기 스케줄링
+  - 단기 스케줄링
+- 스케줄링 알고리즘
+  - FCFS
+  - SJF
+  - Round Robin
+  - SRT
+  - Priority scheduling
+  - Multilevel Queue
+  - Multilevel Feedback Queue
+- 인터럽트
+  - 인터럽트 개념
+  - 동기적 인터럽트, 비동기적 인터럽트
+  - 인터럽트 처리 과정
+  - 인터럽트와 이중 모드
